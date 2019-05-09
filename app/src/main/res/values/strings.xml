@@ -1,5 +1,9 @@
 <resources>
-    <string name="app_name">movieLion</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
+    <string name="app_name">MovieLion</string>
+    <string name="tab_text_1">Search</string>
+    <string name="tab_text_2">Popular</string>
+    <string name="tab_text_3">Top Rated</string>
+   <string name="tab_text_4">upcoming</string>
+   <string name="tab_text_5">Favorites</string>
+
 </resources>
